@@ -1,0 +1,39 @@
+My Jupyter Notebook on IBM Watson Studio
+
+YamunaJ
+I'm an Student
+I am interested in data science because I love play with data and also curious to learn concepts in the field of data.
+The following simple python code is just calculate sum of n range number.
+In [7]:
+def nsum(num):
+    total=0
+    for i in range(num):
+        total=total+i
+    return total
+
+total_sum = nsum(int(input("Enter N range value:")))
+print("total sum is:",total_sum)
+Enter N range value:7
+total sum is: 21
+ 
+1.	first item
+2.	second item
+3.	third item
+4.	fourth item
+•	First item
+•	Second item
+•	Third item
+•	Fourth item
+IBM.com
+https://www.ibm.com/
+Name	Marks
+YamunaJ	78
+bagee	89
+{
+    "name": "yamunaj",
+    "age":"19"
+    }
+This is simple demo project
+written in python
+In [ ]:
+ 
